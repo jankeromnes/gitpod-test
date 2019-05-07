@@ -1,11 +1,11 @@
 ports:
-- port: 1000
+- port: 1500
   onOpen: notify
-- port: 1001
+- port: 1501
   onOpen: open-preview
-- port: 1002
+- port: 1502
   onOpen: open-browser
-- port: 1003
+- port: 1503
   onOpen: ignore
 - port: 2000-2999
   onOpen: notify
