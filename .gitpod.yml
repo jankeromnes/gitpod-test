@@ -15,3 +15,5 @@ ports:
   onOpen: open-browser
 - port: 5000-5999
   onOpen: ignore
+- port: 6999-6000
+  onOpen: ignore
