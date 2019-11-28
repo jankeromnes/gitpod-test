@@ -19,3 +19,6 @@ ports:
   onOpen: ignore
 - port: 6999-6000
   onOpen: ignore
+vscode:
+  extensions:
+    - wayou.vscode-todo-highlight@1.0.4:8IqxuxCVol2WnScJc5xVzg==
