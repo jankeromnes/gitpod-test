@@ -1,6 +1,6 @@
 # gitpod-test
 
-A repository with random stuff in it to test [Gitpod](https://www.gitpod.io).
+A repository with random stuff in it to test [Gitpod](https://www.gitpod.io/).
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://gitpod.io/#https://github.com/jankeromnes/gitpod-test)
 
